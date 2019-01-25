@@ -1,0 +1,13 @@
+{
+    "name": "create-dva-app",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "liuxu",
+    "license": "MIT",
+    "devDependencies": {
+        "commander": "^2.19.0"
+    },
+    "bin": {
+        "create-dva-app": "./bin/index.js"
+    }
+}
