@@ -1,4 +1,5 @@
-## create-dva-app
+## [create-dva-app](https://github.com/Confetti7/create-dva-app)
+        快速创建一个dva app
 
 ### npm
         npm install -g create-dva-app
