@@ -25,7 +25,7 @@ module.exports = () => {
             );
         } else {
             console.log(
-                `\nCreating a new dva app in ${colors.green(__dirname)}.\n`
+                `\nCreating a new dva app in ${colors.green(process.cwd())}.\n`
             );
             console.log('\nInstalling.. This might take a couple of seconds.');
 
