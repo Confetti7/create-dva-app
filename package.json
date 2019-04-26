@@ -1,6 +1,6 @@
 {
     "name": "create-dva-app",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "main": "index.js",
     "author": "liuxu",
     "license": "MIT",
@@ -11,5 +11,14 @@
     },
     "bin": {
         "create-dva-app": "./bin/index.js"
-    }
+    },
+    "keywords": [
+        "dva",
+        "react",
+        "spa",
+        "pwa",
+        "webapp",
+        "node service",
+        "on demand loading"
+    ]
 }
